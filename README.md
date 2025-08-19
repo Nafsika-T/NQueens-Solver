@@ -1,4 +1,4 @@
-# N-Queens Java Visualizer
+# N-Queens Solver
 
 This project is a Java-based implementation and visualization of the classic **N-Queens problem**. The goal is to place `N` queens on an `N x N` chessboard such that no two queens threaten each other. This means no two queens can be in the same row, column, or diagonal.
 
